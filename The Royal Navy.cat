@@ -19554,7 +19554,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="50.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="65.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="21e9-76d8-addb-2a0e" name="Scott-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -19788,7 +19788,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="50.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="40.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5d3a-e02f-258e-41ae" name="Shakespeare-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -19908,7 +19908,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="50.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="40.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3903-170d-bfbb-0b92" name="Activity-Class Carrier" hidden="false" collective="false" import="true" type="unit">
