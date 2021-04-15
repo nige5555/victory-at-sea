@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="1" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="2" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="ffdf-62d1-dc97-b85c" name="Points" defaultCostLimit="-1.0" hidden="false"/>
+    <costType id="8ff1-0245-6897-5c02" name="EPoints" defaultCostLimit="-1.0" hidden="false">
+      <comment>Credit for creation of these alternative points goes to Enioch (from the [Community] Victory at Sea Discord Channel)</comment>
+    </costType>
   </costTypes>
   <profileTypes>
     <profileType id="c2ff-d17b-11ef-a25b" name="Ship">
