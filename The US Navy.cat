@@ -9155,7 +9155,7 @@
       </selectionEntryGroups>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="270.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="140.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="185.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7dc1-fd5f-2f0d-e55c" name="Pennsylvania-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -11730,7 +11730,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="850.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="955.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="1005.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="efe9-9407-7976-2282" name="Montana-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -11852,7 +11852,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="950.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="1345.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="1410.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f180-c1ac-7f8b-1700" name="Nevada-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -12048,7 +12048,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="350.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="225.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="240.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="abb4-2e2f-6ae4-8e78" name="North Carolina-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -12324,7 +12324,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="825.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="755.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="765.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="382b-c000-0b8e-c1d5" name="Tennessee-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -12478,7 +12478,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="250.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="240.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="245.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8c1c-96c2-88fa-8153" name="Bogue-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -12862,7 +12862,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="25.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="70.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7ef3-faba-4074-4398" name="Casablanca-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -14238,7 +14238,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="95.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="35.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="80.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5d32-98e5-063a-92c5" name="Independance-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -14504,7 +14504,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="105.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="75.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="120.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1a1d-6a91-4f7c-cae0" name="Lexington-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -14692,7 +14692,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="75.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="25.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="50.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ccd0-61e9-b15e-5629" name="Midway-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -14778,7 +14778,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="450.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="255.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="305.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="e599-8985-c5b6-7d00" name="Ranger-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -14844,7 +14844,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="220.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="65.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="100.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="05d6-d7ca-855d-f1f3" name="Sangamon-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -15024,7 +15024,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="40.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="80.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d263-35e9-4a40-ec4f" name="Wasp-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -15072,7 +15072,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="240.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="70.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="105.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="30ac-cbee-2472-c257" name="Yorktown-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -15206,7 +15206,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="280.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="110.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="135.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="0cd6-e183-1684-0577" name="Alaska-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -15262,7 +15262,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="250.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="495.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="545.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="2249-87e8-b35d-eddd" name="Atlanta-Class Cruiser (Group 1)" hidden="false" collective="false" import="true" type="unit">
@@ -15386,7 +15386,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="70.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="85.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="90.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="dc13-84ee-3d6c-5d19" name="Atlanta-Class Cruiser (Group 2)" hidden="false" collective="false" import="true" type="unit">
@@ -15564,7 +15564,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="100.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="115.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1703-9d89-c3f5-0a78" name="Baltimore-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -15910,7 +15910,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="150.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="240.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="280.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7ac2-716d-1122-b547" name="Brooklyn-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -16928,7 +16928,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="130.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="140.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="cf8a-2491-d1ce-73ad" name="Des Moines-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -17015,7 +17015,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="180.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="285.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="345.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="6415-aa60-9147-1895" name="Fargo-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -17071,7 +17071,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="105.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="145.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="165.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="6880-29e5-b1bc-73f1" name="New Orleans-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -18041,7 +18041,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="90.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="105.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="115.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3706-cbbc-ef4e-44e4" name="Oregon City-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -22359,7 +22359,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="45.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="55.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d6e0-7e6b-94b9-6538" name="Mahan-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -23943,7 +23943,7 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="50.0"/>
-        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="35.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="76f3-7203-b5e7-2858" name="Bell P-39D Airacobra - Fighter" hidden="false" collective="false" import="true" type="model">
@@ -25430,25 +25430,25 @@
         <selectionEntry id="8d9b-caa7-c1e3-8cfe" name="Curtiss SB2C-1 Helldiver - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="14.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="7373-d86b-30e8-7830" name="Douglas TBD-2 Dauntless - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="14.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="fb0c-9adb-4621-d24a" name="Douglas TBD-1 Devastator - Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="4.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="2.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="4227-04e3-1359-91c2" name="Douglas TBD-1 Devastator - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="6.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="a314-72cc-e545-cba7" name="Grumman F4F-3 Wildcat - Bomber" hidden="false" collective="false" import="true" type="model">
@@ -25461,12 +25461,14 @@
               <selectionEntries>
                 <selectionEntry id="0ffb-b132-6272-f816" name="1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
-                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="4.0"/>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="3bfa-21dc-2805-eb2b" name="1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
-                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="6.0"/>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -25474,6 +25476,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="62bb-dab3-f379-925e" name="Grumman F4F-3 Wildcat - Fighter" hidden="false" collective="false" import="true" type="model">
@@ -25486,13 +25489,13 @@
               <selectionEntries>
                 <selectionEntry id="8f4e-8a36-22f1-ed38" name="1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
-                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="12.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="26d5-2cfd-8f5f-fa17" name="1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
-                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="16.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -25507,37 +25510,37 @@
         <selectionEntry id="97e3-5858-8d32-8e9c" name="Grumman F6F-3 Hellcat - Fighter" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="20.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="12.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="8e57-a917-945b-72c6" name="Grumman TBF-1C/TBM-1C Avenger - ASW" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="4.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="45ff-359d-0c40-8691" name="Grumman TBF-1C/TBM-1C Avenger - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="6.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="c487-7c23-cd18-1cb4" name="Vought F4U-4 Corsair - Fighter" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="26.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="16.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="ae4f-00c6-4966-424a" name="Vought F4U-4 Corsair - Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="14.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="92dc-1f09-3a35-c640" name="Vought SB2U Vindicator - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="6.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
