@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="87fa-2181-1873-4d3e" name="The Regia Marina" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="87fa-2181-1873-4d3e" name="The Regia Marina" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="fdca-9faf-9044-df73" name="Andrea Doria-Class Battleship" hidden="false" collective="false" import="true" targetId="4be2-4f21-4908-3d15" type="selectionEntry">
       <categoryLinks>
@@ -200,11 +200,13 @@
                 <selectionEntry id="1dc1-c21e-8706-adaa" name="Andrea Doria" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="878c-2eb3-92af-40c6" name="Andrea Doria 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -212,6 +214,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="8e3f-170d-ae1f-9d14" name="Caio Duilio" hidden="false" collective="false" import="true" type="model">
@@ -225,11 +228,13 @@
                 <selectionEntry id="a2f0-094c-bde6-d8d1" name="Caio Duilio" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="0040-c9aa-e1fc-8cad" name="Caio Duilio 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -237,11 +242,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="370.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="290.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="dbaa-6373-e88a-323a" name="Conte Di Cavour-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -261,6 +268,7 @@
                 <selectionEntry id="552b-3c30-4392-cedb" name="Conte di Cavour" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -268,6 +276,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="ab88-299e-8967-04fd" name="Giulio Cesare" hidden="false" collective="false" import="true" type="model">
@@ -281,11 +290,13 @@
                 <selectionEntry id="7139-0588-5f87-a911" name="Giulio Cesare" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4d48-d82b-30f3-1d18" name="Giulio Cesare 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -293,6 +304,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="ce9b-7d1b-c672-41b9" name="Leonardo da Vinci" hidden="false" collective="false" import="true" type="model">
@@ -306,6 +318,7 @@
                 <selectionEntry id="9ab6-6e65-331b-e1ba" name="Leonardo da Vinci" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -313,11 +326,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="370.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="315.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="b50d-2f4b-35de-a888" name="Littorio-Class Battleship" hidden="false" collective="false" import="true" type="unit">
@@ -337,16 +352,19 @@
                 <selectionEntry id="095e-ef28-d447-0262" name="Littorio" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="f080-9072-3359-ecb3" name="Littorio 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="9843-171f-c774-20fd" name="Littorio 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="55.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -354,6 +372,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="69f8-976f-33d0-0365" name="Roma" hidden="false" collective="false" import="true" type="model">
@@ -367,11 +386,13 @@
                 <selectionEntry id="bd1e-0da3-4203-de91" name="Roma" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="538a-109e-d68c-ef34" name="Roma 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -379,6 +400,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="9854-c030-135a-5405" name="Vittorio Veneta" hidden="false" collective="false" import="true" type="model">
@@ -392,16 +414,19 @@
                 <selectionEntry id="d457-04cf-9e99-dfe6" name="Vittorio Veneta" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4616-58cf-d90b-c35f" name="Vittorio Veneta 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="6afe-6d9a-ba3d-ba5a" name="Vittorio Veneta 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="55.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -409,11 +434,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="550.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="665.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="56b0-5b74-20b7-7427" name="Aquila-Class Carrier" hidden="false" collective="false" import="true" type="unit">
@@ -428,6 +455,7 @@
           </constraints>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="290f-aa15-2a3c-1551" name="Aquila" hidden="false" collective="false" import="true" type="model">
@@ -441,6 +469,7 @@
                 <selectionEntry id="6b77-a14f-5156-6f3a" name="Aquila" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -448,6 +477,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -461,6 +491,7 @@
       </entryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="210.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="145.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ce2b-0663-cd73-bc32" name="Capitani Romani-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -480,11 +511,13 @@
                 <selectionEntry id="e113-2e4d-b12f-f84d" name="Attilio Regolo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="115d-eff0-3186-9324" name="Attilio Regolo 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -492,6 +525,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="c31f-f25b-e6f0-feff" name="Pompeo Magna" hidden="false" collective="false" import="true" type="model">
@@ -505,6 +539,7 @@
                 <selectionEntry id="e4d6-8886-431f-2dad" name="Pompeo Magna" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -512,6 +547,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="291f-9e28-d1cc-d803" name="Scipione Africano" hidden="false" collective="false" import="true" type="model">
@@ -525,11 +561,13 @@
                 <selectionEntry id="5e5b-dadb-8662-8501" name="Scipione Africano" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="6dca-a459-6013-b4f4" name="Scipione Africano 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -537,11 +575,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="65.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="75.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5fd0-3a55-2b59-270c" name="Alberto Da Gussano-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -561,6 +601,7 @@
                 <selectionEntry id="08ad-392b-97a5-c195" name="Alberico da Barbiano" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -568,6 +609,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="168f-cd87-f830-e4e4" name="Alberto da Giussano" hidden="false" collective="false" import="true" type="model">
@@ -581,6 +623,7 @@
                 <selectionEntry id="2fda-6c84-6b77-c745" name="Alberto da Giussano" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -588,6 +631,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="38b7-1153-f7e4-27c7" name="Bartolomeo Colleoni" hidden="false" collective="false" import="true" type="model">
@@ -601,6 +645,7 @@
                 <selectionEntry id="1acc-61c7-7061-3106" name="Bartolomeo Colleoni" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -608,6 +653,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="213d-4102-97f2-69d0" name="Giovanni delle Bande Nere" hidden="false" collective="false" import="true" type="model">
@@ -621,6 +667,7 @@
                 <selectionEntry id="2196-d77a-c5b5-caca" name="Giovanni delle Bande Nere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -628,11 +675,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="80.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="60.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="03ce-424e-ad4b-47c6" name="Duca D&apos;Aosta-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -652,16 +701,19 @@
                 <selectionEntry id="a09b-00b2-d072-2e3c" name="Emanuele Filberto Duca d&apos;Aosta" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4d3b-2d3a-3cc9-f2f9" name="Emanuele Filberto Duca d&apos;Aosta 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4773-749c-8e52-93c6" name="Emanuele Filiberto Duca d&apos;Aosta 1944" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-20.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -669,6 +721,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="edab-f8a0-dd3f-5d2d" name="Eugenio di Savoia" hidden="false" collective="false" import="true" type="model">
@@ -682,16 +735,19 @@
                 <selectionEntry id="dee4-0f4a-dbb7-251b" name="Eugenio di Savoia" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="1bce-fada-25e5-edd0" name="Eugenio di Savoia 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="9ed3-93ae-401c-7649" name="Eugenio di Savoia 1944" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-20.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -699,11 +755,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="90.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="130.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="c5a1-8aee-7bad-6e49" name="Duca Delgi Abruzzi-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -723,21 +781,25 @@
                 <selectionEntry id="84f0-822c-fad6-9864" name="Luigi di Savoia Duca Degli Abruzzi" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="9e96-5c94-8f2f-4899" name="Luigi di Savoia Duca Degli Abruzzi 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="ea38-a804-92d8-c25c" name="Luigi di Savoia Duca Degli Abruzzi 1944" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4420-7ba8-6d4f-57cc" name="Luigi di Savoia Duca Degli Abruzzi 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-20.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -745,6 +807,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="2c61-a2d0-d5f8-6d48" name="Giuseppe Garibaldi" hidden="false" collective="false" import="true" type="model">
@@ -758,16 +821,19 @@
                 <selectionEntry id="7840-2128-89ba-30f8" name="Giuseppe Garibaldi" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="317a-98b0-82b2-7dca" name="Giuseppe Garibaldi 1944" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="9f82-eb37-1918-6aee" name="Giuseppe Garibaldi 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -775,11 +841,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="110.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="105.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="a07f-5c56-214b-5a87" name="Etna-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -799,6 +867,7 @@
                 <selectionEntry id="6246-e167-42e3-9863" name="Etna" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -806,6 +875,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="3831-5198-f97b-e152" name="Vesuvio" hidden="false" collective="false" import="true" type="model">
@@ -819,6 +889,7 @@
                 <selectionEntry id="bdee-1e39-2da5-6d3c" name="Vesuvio" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -826,11 +897,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="55.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d7be-3ed8-0927-5db6" name="Luigi Cadorna-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -850,6 +923,7 @@
                 <selectionEntry id="dd90-5bcf-a1de-ba30" name="Armando Diaz" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -857,6 +931,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="97d4-0ba6-e890-5acc" name="Luigi Cadorna" hidden="false" collective="false" import="true" type="model">
@@ -870,16 +945,19 @@
                 <selectionEntry id="d809-55b9-537e-ffcf" name="Luigi Cadorna" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="6e07-7d83-576f-178b" name="Luigi Cadorna 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="d63b-a7e4-50aa-874f" name="Luigi Cadorna 1944" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-30.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -887,11 +965,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="75.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="75.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="2d97-99c4-78a1-da2c" name="Montecuccoli-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -911,6 +991,7 @@
                 <selectionEntry id="06b4-9873-c6c6-d24f" name="Muzio Attendolo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -918,6 +999,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="bc89-6351-7beb-eba1" name="Raimondo Montecuccoli" hidden="false" collective="false" import="true" type="model">
@@ -931,16 +1013,19 @@
                 <selectionEntry id="065d-692e-c267-d581" name="Raimondo Montecuccoli" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="a940-4e59-d9c2-3649" name="Raimondo Montecuccoli 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="d45f-ed7e-ba8e-517f" name="Raimondo Montecuccoli 1944" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-15.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -948,11 +1033,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="85.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="120.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="32d8-7ed5-0230-2494" name="Trento-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -972,6 +1059,7 @@
                 <selectionEntry id="1f75-68cb-cf53-1e55" name="Trento" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -979,6 +1067,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="eeb9-7784-bf4a-af74" name="Trieste" hidden="false" collective="false" import="true" type="model">
@@ -992,6 +1081,7 @@
                 <selectionEntry id="6243-f2b8-7855-2651" name="Trieste" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -999,6 +1089,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="c814-ef43-567c-b37e" name="Bolzano" hidden="false" collective="false" import="true" type="model">
@@ -1012,6 +1103,7 @@
                 <selectionEntry id="99f6-361f-ce07-ee25" name="Bolzano" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1019,11 +1111,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="130.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="165.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ec96-83aa-7ac0-c4e8" name="Zara-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
@@ -1043,11 +1137,13 @@
                 <selectionEntry id="b7e6-7ee9-9dbf-c764" name="Fiume" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="5e87-f7e0-a3c1-b04e" name="Fiume 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1055,6 +1151,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="57de-5311-9f64-4fde" name="Gorizia" hidden="false" collective="false" import="true" type="model">
@@ -1068,16 +1165,19 @@
                 <selectionEntry id="ddc8-9164-3fec-5127" name="Gorizia" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="8d4e-2d30-74ae-24a8" name="Gorizia 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="cc03-026d-ba0a-e83a" name="Gorizia 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1085,6 +1185,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="983e-8edc-0af3-8efc" name="Pola" hidden="false" collective="false" import="true" type="model">
@@ -1098,11 +1199,13 @@
                 <selectionEntry id="4a67-bcc1-9e9e-d0cc" name="Pola" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="7c35-bda3-9298-6b44" name="Pola 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1110,6 +1213,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="2635-2596-2b99-ea74" name="Zara" hidden="false" collective="false" import="true" type="model">
@@ -1123,11 +1227,13 @@
                 <selectionEntry id="1ca4-de37-3bff-18a5" name="Zara" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="201f-9d2d-fab4-2858" name="Zara 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1135,11 +1241,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="150.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="150.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="afd1-71bc-f244-fe73" name="Folgore-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -1159,6 +1267,7 @@
                 <selectionEntry id="a22c-2c9a-132a-8505" name="Beleno" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1166,6 +1275,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="18ce-df0d-1de6-a724" name="Folgore" hidden="false" collective="false" import="true" type="model">
@@ -1179,11 +1289,13 @@
                 <selectionEntry id="f7fc-565f-f44f-8a0c" name="Folgore" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4189-83ba-7200-f5d4" name="Folgore 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1191,6 +1303,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="2ec6-9da4-f8dc-a8a2" name="Fulmine" hidden="false" collective="false" import="true" type="model">
@@ -1204,6 +1317,7 @@
                 <selectionEntry id="1aea-a3f3-1a24-692f" name="Fulmine" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1211,6 +1325,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="1481-8e81-0a8b-bc08" name="Lampo" hidden="false" collective="false" import="true" type="model">
@@ -1224,11 +1339,13 @@
                 <selectionEntry id="96b6-e24b-d561-767b" name="Lampo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="24c8-faaa-72c9-50ea" name="Lampo 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1236,11 +1353,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="20.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3928-9d28-9051-acb4" name="Freccia-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -1260,11 +1379,13 @@
                 <selectionEntry id="92d7-3d19-735a-6ee6" name="Dardo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="554e-81e9-c40b-2a37" name="Dardo 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1272,6 +1393,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="fbd0-cf11-a9f5-13cf" name="Freccia" hidden="false" collective="false" import="true" type="model">
@@ -1285,11 +1407,13 @@
                 <selectionEntry id="a98e-95e6-9424-4a35" name="Freccia" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="3d86-bea1-7a0c-5305" name="Freccia 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1297,6 +1421,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="306e-aabd-4b29-2fb4" name="Saetta" hidden="false" collective="false" import="true" type="model">
@@ -1310,11 +1435,13 @@
                 <selectionEntry id="ddbf-c1ab-75e1-f053" name="Saetta" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="ab12-50e4-9f57-d2cb" name="Saetta 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1322,6 +1449,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="0517-25f2-55a1-ccda" name="Strale" hidden="false" collective="false" import="true" type="model">
@@ -1335,6 +1463,7 @@
                 <selectionEntry id="1f48-6de8-2037-378c" name="Strale" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1342,11 +1471,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="25.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="dd91-9ed8-e613-7846" name="Maestrale-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -1366,16 +1497,19 @@
                 <selectionEntry id="d375-cbe9-f085-c90e" name="Grecale" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="2154-2811-1649-1ec1" name="Grecale 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="f49a-5f3c-4543-cccb" name="Grecale 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1383,6 +1517,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="be79-5062-6475-866c" name="Libeccio" hidden="false" collective="false" import="true" type="model">
@@ -1396,6 +1531,7 @@
                 <selectionEntry id="b489-aa59-6c62-2d5e" name="Libeccio" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1403,6 +1539,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="4676-c8d8-9141-edc9" name="Maestrale" hidden="false" collective="false" import="true" type="model">
@@ -1416,21 +1553,25 @@
                 <selectionEntry id="d577-cd74-5e32-7966" name="Maestrale" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="35f9-168f-e20b-caa8" name="Maestrale 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="53cd-834d-2851-5532" name="Maestrale 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="8f31-7adf-b67f-a980" name="Maestrale 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1438,6 +1579,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="fb98-24f2-5a92-bb66" name="Scirocco" hidden="false" collective="false" import="true" type="model">
@@ -1451,11 +1593,13 @@
                 <selectionEntry id="0ffe-802f-8b72-333b" name="Scirocco" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="ce23-175b-fce5-4033" name="Scirocco 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1463,11 +1607,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="25.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7449-c1a2-e5bf-6c19" name="Navigatori-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -1487,16 +1633,19 @@
                 <selectionEntry id="ed77-bbb3-946d-18b0" name="Alvise Da Mosto" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="9a14-5e36-0b58-a75c" name="Alvise Da Mosto 1940a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="0ba2-1ea9-9128-ac93" name="Alvise Da Mosto 1940b" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1504,6 +1653,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="ea79-0d3a-8a1a-6187" name="Antonio da Noli" hidden="false" collective="false" import="true" type="model">
@@ -1517,16 +1667,19 @@
                 <selectionEntry id="a8a3-2f55-c689-576b" name="Antonio da Noli" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="a900-4f8f-e28a-24c3" name="Antionio da Noli 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="340f-2100-c62c-d248" name="Antionio da Noli 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1534,6 +1687,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="2899-5354-1ec0-d7b3" name="Niccoloso da Recco" hidden="false" collective="false" import="true" type="model">
@@ -1547,11 +1701,13 @@
                 <selectionEntry id="727a-a41b-896b-ebf7" name="Niccoloso da Recco" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="faa7-8f31-e5d0-3ec7" name="Niccoloso da Recco 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1559,6 +1715,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="b712-df2f-ef26-be80" name="Giovanni da Verrazzano" hidden="false" collective="false" import="true" type="model">
@@ -1572,16 +1729,19 @@
                 <selectionEntry id="6cd5-e2a3-8dd5-7db4" name="Giovanni da Verrazzano" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="a262-e00b-601e-ea3b" name="Giovanni da Verrazzano 1940a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="f049-2bdf-6d94-f573" name="Giovanni da Verrazzano 1940b" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1589,6 +1749,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="7a87-1b41-5562-71b4" name="Emanuele Pessagno" hidden="false" collective="false" import="true" type="model">
@@ -1602,16 +1763,19 @@
                 <selectionEntry id="22e3-c51c-aa51-36ed" name="Emanuele Pessagno" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="c924-3572-4516-3166" name="Emanuele Pessagno 1940a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="3dc4-df9a-800d-f858" name="Emanuele Pessagno 1940b" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1619,6 +1783,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="a604-507b-1d5a-74e0" name="Antonio Pigafetta" hidden="false" collective="false" import="true" type="model">
@@ -1632,21 +1797,25 @@
                 <selectionEntry id="21b0-425d-6564-4c70" name="Antonio Pigafetta" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="cecb-d461-a810-640c" name="Antonio Pigafetta 1940a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="1cb8-c71c-a85a-8f4e" name="Antonio Pigafetta 1940b" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="2d88-abd1-5eef-5cb6" name="Antonio Pigafetta 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1654,6 +1823,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="4258-25f6-ad27-8a3b" name="Lanzerotto Malcello" hidden="false" collective="false" import="true" type="model">
@@ -1667,16 +1837,19 @@
                 <selectionEntry id="9dad-8553-550b-78ca" name="Lanzerotto Malcello" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="2ff9-4aa4-3cc5-ce9b" name="Lanzerotto Malcello 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="1633-8871-727a-9700" name="Lanzerotto Malcello 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1684,6 +1857,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="b471-6d6c-6642-536e" name="Leone Pancaldo" hidden="false" collective="false" import="true" type="model">
@@ -1697,16 +1871,19 @@
                 <selectionEntry id="6f8e-ad43-630b-a1e1" name="Leone Pancaldo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="f6ef-8f81-52d7-0182" name="Leone Pancaldo 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="8552-b3ec-cdd7-a00f" name="Leone Pancaldo 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1714,6 +1891,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="9828-80b7-42ba-2356" name="Luca Tarigo" hidden="false" collective="false" import="true" type="model">
@@ -1727,16 +1905,19 @@
                 <selectionEntry id="f3f0-f1fc-b627-9eb2" name="Luca Tarigo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="e015-4423-d87d-0934" name="Luca Tarigo 1940a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="91b0-9fd0-5bea-0275" name="Luca Tarigo 1940b" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1744,6 +1925,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="da79-ebc6-6123-63cb" name="Ugolino Vivaldi" hidden="false" collective="false" import="true" type="model">
@@ -1757,16 +1939,19 @@
                 <selectionEntry id="225e-d9ec-556d-1f49" name="Ugolino Vivaldi" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="297a-5898-9106-41e7" name="Ugolino Vivaldi 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="b4fe-f8e8-25cd-29f6" name="Ugolino Vivaldi 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1774,6 +1959,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="e970-771b-2118-f1f3" name="Antoniotto Usodimare" hidden="false" collective="false" import="true" type="model">
@@ -1787,6 +1973,7 @@
                 <selectionEntry id="f8c4-23b6-77ff-0688" name="Antoniotto Usodimare" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1794,6 +1981,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="27db-ddd0-3300-24af" name="Nicolo Zeno" hidden="false" collective="false" import="true" type="model">
@@ -1807,16 +1995,19 @@
                 <selectionEntry id="bbe6-4c0c-2805-97a0" name="Nicolo Zeno" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="ae30-3b69-9a18-cab8" name="Nicolo Zeno 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4a13-f2e2-9877-7495" name="Nicolo Zeno 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1824,11 +2015,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="35.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="a690-16f9-2941-1c16" name="Oriani-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -1848,11 +2041,13 @@
                 <selectionEntry id="eb1d-90c6-5657-2b69" name="Alfredo Oriani" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="bcaa-6c7d-72ba-c4ff" name="Alfredo Oriani 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1860,6 +2055,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="b136-17be-d19c-c80e" name="Giosue Carducci" hidden="false" collective="false" import="true" type="model">
@@ -1873,6 +2069,7 @@
                 <selectionEntry id="988b-c200-a970-3709" name="Giosue Carducci" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1880,6 +2077,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="ec7a-b1c6-f7fc-f46c" name="Vincenzo Gioberti" hidden="false" collective="false" import="true" type="model">
@@ -1893,11 +2091,13 @@
                 <selectionEntry id="6eaa-104f-7efd-dd7a" name="Vincenzo Gioberti" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="8ad3-dab8-8de1-e9cd" name="Vincenzo Gioberti 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1905,6 +2105,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="7bc1-23d9-a010-5243" name="Vittorio Alfieri" hidden="false" collective="false" import="true" type="model">
@@ -1918,6 +2119,7 @@
                 <selectionEntry id="b3ce-06ff-c5b3-b6fa" name="Vittorio Alfieri" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1925,11 +2127,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="35.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="c05a-bb53-fe43-c3a7" name="Soldati-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
@@ -1949,6 +2153,7 @@
                 <selectionEntry id="8938-75c1-0717-791d" name="Alpino" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1956,6 +2161,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="c2d1-4ce9-f862-c89e" name="Artigliere" hidden="false" collective="false" import="true" type="model">
@@ -1969,6 +2175,7 @@
                 <selectionEntry id="40f4-8e38-80bb-5445" name="Artigliere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -1976,6 +2183,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="d4d1-65ad-25ef-1168" name="Ascari" hidden="false" collective="false" import="true" type="model">
@@ -1989,11 +2197,13 @@
                 <selectionEntry id="3c84-e1c8-3c52-ae89" name="Ascari" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="1c1e-7dbf-c3c8-f1b6" name="Ascari 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2001,6 +2211,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="00ab-416b-b40a-9974" name="Aviere" hidden="false" collective="false" import="true" type="model">
@@ -2014,6 +2225,7 @@
                 <selectionEntry id="a42c-7c29-3b0d-acd1" name="Aviere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2021,6 +2233,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="eebd-b6f1-0d54-a737" name="Bersagliere" hidden="false" collective="false" import="true" type="upgrade">
@@ -2034,6 +2247,7 @@
                 <selectionEntry id="8ecb-fb1c-8646-04c8" name="Bersagliere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2041,6 +2255,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="d85c-e214-488c-b55c" name="Camicia Nera" hidden="false" collective="false" import="true" type="model">
@@ -2054,11 +2269,13 @@
                 <selectionEntry id="49a4-849d-bc31-7661" name="Camicia Nera" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="36b0-c48e-8bba-a9cf" name="Camicia Nera 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2066,6 +2283,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="8935-2bc9-fe45-26d1" name="Carabiniere" hidden="false" collective="false" import="true" type="model">
@@ -2079,11 +2297,13 @@
                 <selectionEntry id="bca8-484a-e6bd-7d16" name="Carabiniere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="f523-db08-3ebd-2c99" name="Carabiniere 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2091,6 +2311,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="3758-0423-9a14-aace" name="Corazziere" hidden="false" collective="false" import="true" type="model">
@@ -2104,6 +2325,7 @@
                 <selectionEntry id="256f-e3ea-1ea6-9f1d" name="Corazziere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2111,6 +2333,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="bcb7-fb2d-b0c7-3370" name="Fuciliere" hidden="false" collective="false" import="true" type="model">
@@ -2124,11 +2347,13 @@
                 <selectionEntry id="ccda-849c-4613-0714" name="Fuciliere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="a99f-9835-bb05-cf43" name="Fuciliere 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2136,6 +2361,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="dda1-56f8-633f-dedb" name="Geniere" hidden="false" collective="false" import="true" type="model">
@@ -2149,11 +2375,13 @@
                 <selectionEntry id="c847-27f4-85d5-9b71" name="Geniere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="374c-8bbd-8335-4b0c" name="Geniere 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2161,6 +2389,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="55e0-2c25-4847-a4b1" name="Granatiere" hidden="false" collective="false" import="true" type="model">
@@ -2174,11 +2403,13 @@
                 <selectionEntry id="e2dd-91de-8f38-d437" name="Granatiere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="a5ad-3e52-b0b4-e426" name="Granatiere 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2186,6 +2417,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="d70c-8ffa-4052-93c4" name="Lanciere" hidden="false" collective="false" import="true" type="model">
@@ -2199,11 +2431,13 @@
                 <selectionEntry id="6a6a-01c7-7448-c62a" name="Lanciere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="6cd4-84ae-2e55-1e63" name="Lanciere 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2211,6 +2445,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="266d-15f9-e3cb-605f" name="Bombardiere" hidden="false" collective="false" import="true" type="model">
@@ -2224,6 +2459,7 @@
                 <selectionEntry id="61a1-6699-068a-2d95" name="Bombardiere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2231,6 +2467,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="b75f-f156-d354-588f" name="Corsaro" hidden="false" collective="false" import="true" type="model">
@@ -2244,6 +2481,7 @@
                 <selectionEntry id="5d9a-5cb7-2c6b-b2f6" name="Corsaro" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2251,6 +2489,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="dada-1940-ef7e-64ca" name="Legionario" hidden="false" collective="false" import="true" type="model">
@@ -2264,11 +2503,13 @@
                 <selectionEntry id="99a7-e8b9-b62d-ba3d" name="Legionario" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="4f99-3bfe-4741-8edd" name="Legionario 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2276,6 +2517,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="37b7-c5ce-7177-6cd3" name="Mitragliere" hidden="false" collective="false" import="true" type="model">
@@ -2289,6 +2531,7 @@
                 <selectionEntry id="f922-00c1-0e9c-e06a" name="Mitragliere" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2296,6 +2539,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="a398-ce57-3522-160d" name="Velite" hidden="false" collective="false" import="true" type="model">
@@ -2309,11 +2553,13 @@
                 <selectionEntry id="e745-ac42-1d6b-e9cb" name="Velite" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
                 <selectionEntry id="5952-85c5-5bc2-f9a1" name="Velite 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2321,11 +2567,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="35.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f26d-ab07-b802-d5a9" name="Marcello-Class Submarine" hidden="false" collective="false" import="true" type="unit">
@@ -2345,6 +2593,7 @@
                 <selectionEntry id="dc0d-3458-6153-09fc" name="Barbarigo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2352,6 +2601,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="d0ed-7c28-0cf3-b3f3" name="Comandante Alfredo Cappellini" hidden="false" collective="false" import="true" type="model">
@@ -2365,6 +2615,7 @@
                 <selectionEntry id="16ea-7ba9-2dc8-b619" name="Comandante Alfredo Cappellini" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2372,6 +2623,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="d872-91d4-2615-d254" name="Comandante Faa di Bruno" hidden="false" collective="false" import="true" type="model">
@@ -2385,6 +2637,7 @@
                 <selectionEntry id="23ad-3ff5-8950-00aa" name="Comandante Faa di Bruno" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2392,6 +2645,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="56d4-3d49-4171-bd07" name="Dandolo" hidden="false" collective="false" import="true" type="model">
@@ -2405,6 +2659,7 @@
                 <selectionEntry id="d7d8-83b7-817a-8fb6" name="Dandolo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2412,6 +2667,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="e746-1bf8-387c-f591" name="Emo" hidden="false" collective="false" import="true" type="model">
@@ -2425,6 +2681,7 @@
                 <selectionEntry id="73f8-4f24-dfac-8d1f" name="Emo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2432,6 +2689,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="ee26-31d5-4756-3d40" name="Marcello" hidden="false" collective="false" import="true" type="model">
@@ -2445,6 +2703,7 @@
                 <selectionEntry id="5c24-fc56-b24d-3312" name="Marcello" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2452,6 +2711,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="d391-a1ce-847a-a4b8" name="Mocenigo" hidden="false" collective="false" import="true" type="model">
@@ -2465,6 +2725,7 @@
                 <selectionEntry id="f9f5-45b6-1190-0e1e" name="Mocenigo" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2472,6 +2733,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="7dd8-a172-15dd-ab25" name="Morosini" hidden="false" collective="false" import="true" type="model">
@@ -2485,6 +2747,7 @@
                 <selectionEntry id="e36e-b885-b1e4-356c" name="Morosini" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2492,6 +2755,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="048f-051e-4459-63bb" name="Nani" hidden="false" collective="false" import="true" type="model">
@@ -2505,6 +2769,7 @@
                 <selectionEntry id="c520-a7f2-d152-5431" name="Nani" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2512,6 +2777,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="976f-8b62-2b1e-28f9" name="Provana" hidden="false" collective="false" import="true" type="model">
@@ -2525,6 +2791,7 @@
                 <selectionEntry id="e245-3bd8-5809-0870" name="Provana" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2532,6 +2799,7 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="f5d1-4cf3-6594-f7e9" name="Veniero" hidden="false" collective="false" import="true" type="model">
@@ -2545,6 +2813,7 @@
                 <selectionEntry id="51df-b7a1-6083-9ad8" name="Veniero" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                    <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2552,11 +2821,13 @@
           </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="25.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="381a-3ca2-6390-7ac7" name="Breda Ba.201 - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2566,6 +2837,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="18.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="190a-0ab8-087f-7c83" name="Fiat G.50 Freccia - Fighter" hidden="false" collective="false" import="true" type="model">
@@ -2574,6 +2846,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8fcc-5731-29fb-59d0" name="Fiat G.50 Freccia - Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2582,6 +2855,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="8.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3131-49e3-79a4-e67f" name="Junkers Ju 87 Picchiatello - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2591,6 +2865,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="18.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="b27f-4e3d-7b4b-6207" name="Macchi C.202 Folgore - Fighter" hidden="false" collective="false" import="true" type="model">
@@ -2600,6 +2875,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="18.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9142-921f-f017-604e" name="Macchi C.202 Folgore - Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2609,6 +2885,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4fa9-c3ac-ee73-0abd" name="Reggiane Re.2000 Falco I - Fighter" hidden="false" collective="false" import="true" type="model">
@@ -2618,6 +2895,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="16.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="15af-ace4-1b7e-1f17" name="Reggiane Re.2001 Falco II - Fighter" hidden="false" collective="false" import="true" type="model">
@@ -2627,6 +2905,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="20.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="6ca2-cfe0-ef86-3ea3" name="Reggiane Re.2001 Falco II - Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2636,6 +2915,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="12.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="564c-7a93-30a3-a528" name="Savoia Marchetti SM.79 Sparviero - Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2645,6 +2925,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="6.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="b533-39d0-74b6-6ab9" name="Savoia Marchetti SM.79 Sparviero - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2654,6 +2935,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="22.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="0b67-1c5c-72b1-edf9" name="MAS Boat" hidden="false" collective="false" import="true" type="model">
@@ -2663,6 +2945,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="26c0-4b0c-75aa-b7ec" name="MS Boat Type 1" hidden="false" collective="false" import="true" type="model">
@@ -2672,6 +2955,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1c25-9ffa-0c7d-a737" name="MS Boat Type 2" hidden="false" collective="false" import="true" type="model">
@@ -2681,6 +2965,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d498-80c1-94c3-b3ba" name="MT Boat" hidden="false" collective="false" import="true" type="model">
@@ -2690,6 +2975,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="81ef-98d5-3877-8eb2" name="VAS Boat" hidden="false" collective="false" import="true" type="model">
@@ -2699,6 +2985,7 @@
       </categoryLinks>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+        <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
@@ -2711,6 +2998,7 @@
           </categoryLinks>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="10.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="a264-d848-1cbc-b193" name="Reggiane Re.2000 Falco II - Bomber" hidden="false" collective="false" import="true" type="model">
@@ -2719,6 +3007,7 @@
           </categoryLinks>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="6.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
